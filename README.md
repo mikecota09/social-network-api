@@ -34,6 +34,8 @@ Ensure the following packages were installed correctly
 
 ## Demo
 
+You can view a walkthrough video of the app [here](https://drive.google.com/file/d/14qC2rnSG_M9nVrzvKz0_GyCFKp6IUPgI/view)
+
 ## Contact
 
 If you have questions you can reach out to me via email at [mikecotahf@gmail.com](mailto:mikecotahf@gmail.com) or contact me via [GitHub](https://github.com/mikecota09).
